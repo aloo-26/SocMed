@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">Launch faster with a Modern and Free community platform.</h3>
-<p align="center">Within minutes, Orca gives you all the core features for building a community app, <br /> which is beautifully designed, easy to use, and ready to scale.</p>
+<p align="center">Within minutes, SocMed gives you all the core features for building a community app, <br /> which is beautifully designed, easy to use, and ready to scale.</p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/create-orca-app">
@@ -31,7 +31,7 @@
 
 ## Features
 
-Orca is a free and open-source community platform equipped with:
+SocMed is a free and open-source community platform equipped with:
 
 - **Real-time notifications** Be notified instantly when someone likes or comments on your post, follows you, messages you, etc.
 - **Email notifications** Receive an email every time someone interacts with your profile or posts.
@@ -69,23 +69,3 @@ Then open [http://localhost:3000](http://localhost:3000) to see your app.
 
 Although these steps are enough to create an Orca app and run it locally, you'll need to create an admin user, configure CDN and Email service to use all the Orca's features. The [Configuration Docs](https://dimimikadze.github.io/orca-docs/docs/getting-started/configuration) will walk you through all of it.
 
-## Contributing
-
-Thank you for considering contributing to Orca! The contribution guide can be found in the [Orca documentation](https://dimimikadze.github.io/orca-docs/docs/contributing).
-
-## Documentation
-
-See our dedicated [repository](https://github.com/dimimikadze/dimimikadze.github.io/orca-docs) for the Orca documentation, or view it [live](https://dimimikadze.github.io/orca-docs/docs/getting-started/installation).
-
-## Core Contributors
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/TomKochievi"><img src="https://avatars.githubusercontent.com/u/13495707?v=4" width="100px;" alt=""/><br /><sub><b>Tom Kochievi</b></sub></a></td>
-    <td align="center"><a href="https://github.com/RajendrasinhParmar"><img src="https://avatars.githubusercontent.com/u/8512172?v=4" width="100px;" alt=""/><br /><sub><b>Rajendrasinh Parmar</b></sub></a></td>
-  </tr>
-</table>
-
-## License
-
-Orca is an open-source software [licensed as MIT](./LICENSE).
