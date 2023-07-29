@@ -47,25 +47,3 @@ SocMed is a free and open-source community platform equipped with:
 ## Prerequisites
 
 You'll need to have [Node](https://nodejs.org) >=12.20.0, [Yarn](https://yarnpkg.com), and [MongoDB](https://www.mongodb.com) installed and running on your machine.
-
-## Quick start
-
-```
-npx create-orca-app my-app
-```
-
-This command will create a directory `my-app` inside a current folder. In that directory, it will generate an initial project and install dependencies.
-
-Once the installation is done, you can run the app locally.
-
-```
-cd my-app
-yarn dev
-```
-
-Then open [http://localhost:3000](http://localhost:3000) to see your app.
-
-## Configuration
-
-Although these steps are enough to create an Orca app and run it locally, you'll need to create an admin user, configure CDN and Email service to use all the Orca's features. The [Configuration Docs](https://dimimikadze.github.io/orca-docs/docs/getting-started/configuration) will walk you through all of it.
-
